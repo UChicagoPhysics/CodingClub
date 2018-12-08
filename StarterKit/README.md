@@ -1,3 +1,9 @@
+---
+layout: default
+title: Starter Kit
+navigation_weight: 2
+---
+
 # StarterKit
 
 Welcome to the UChicago Physics CodingClub StarterKit!
