@@ -4,6 +4,8 @@ Welcome to the UChicago Physics CodingClub StarterKit!
 
 This StarterKit provides some tools that will help get you started with coding with python, plotting and visualization, and data analysis.
 
+Click [here to go back to the main page](./).
+
 ## Programming Languages, Software, and Platforms
 
 We will primarily be using Python, which is a powerful, and high-level language that is used across much of academia and industry in one form or another.
@@ -108,3 +110,5 @@ There are a huge number of `git` and `GitHub` tutorials out there, but here are 
 * https://guides.github.com/introduction/flow
 * https://guides.github.com/activities/forking/
 
+
+Click [here to go back to the main page](./).
