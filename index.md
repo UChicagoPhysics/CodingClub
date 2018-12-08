@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+navigation_weight: 1
+---
+
 # Introduction
 
 This is just a test
