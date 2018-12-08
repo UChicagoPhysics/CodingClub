@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: UChicago Physics Department Coding Club
+description: UChicago Physics Department Coding Club aims to strengthen student scientific programming and analysis skills  by focusing on one research paper per academic term to read, discuss, and evaluate computationally. Examples include reproducing a key computational result, or vetting a statistical analysis using published data, or modeling a result or hypothesis computationally. 
+logo: https://d3qi0qp55mx5f5.cloudfront.net/shared-resources/i/template/uc_wordmark_hires.gif
+show_downloads: true
