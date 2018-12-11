@@ -24,7 +24,7 @@ The [Starter Kit](./) and [Tutorials](../Tutorials/README.md) will primarily use
 
 The easiest way to get and manage all of these packages is through a package manager such as `conda`; we recommend using Anaconda for this.
 
-* Anaconda: [https://www.anaconda.com/]
+* Anaconda: https://www.anaconda.com/
 
 This is easy to use on almost any operating system.
 
@@ -32,24 +32,24 @@ This is easy to use on almost any operating system.
 
 One of the primary sets of packages that we will be using is referred to as the *scipy stack*.
 
-* Scipy: [https://www.scipy.org/]
+* Scipy: https://www.scipy.org/
 
 The reason for this is that it includes these incredibly powerful, ubiquitous, and useful packages:
 
-* `numpy`: [http://www.numpy.org/]
+* `numpy`: http://www.numpy.org/
    * arrays and mathematics
-* `matplotlib`: [https://matplotlib.org/]
+* `matplotlib`: https://matplotlib.org/
    * plotting
-* `IPython`/`Jupyter`: [http://ipython.org/]
+* `IPython`/`Jupyter`: http://ipython.org/
    * notebook interface for python
-* `pandas`: [http://pandas.pydata.org/]
+* `pandas`: http://pandas.pydata.org/
    * dataframes and structures
 
 ## Jupyter notebooks
 
 One of the easiest to use applications for python-based computational physics is Jupyter Notebooks.
 
-* `Jupyter`: [http://jupyter.org/]
+* `Jupyter`: http://jupyter.org/
 
 These are interactive, easy-to-use interfaces that make writing simple and moderately complex software programs enjoyable and straightforward. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
@@ -60,16 +60,16 @@ These are interactive, easy-to-use interfaces that make writing simple and moder
 `git` is a version-control system that allows you to track changes in your code and facilitate collaboration with others.
 `git` is used throughout the science and programming communities and can be an invaluable tool when working on coding projects.
 
-* `git`: [https://git-scm.com/]
+* `git`: https://git-scm.com/
 
 Most people interact with `git` using GitHub (that's this thing you're using now on the web):
 
-* GitHub: [https://github.com/]
+* GitHub: https://github.com/
 
 Graphical user interface (GUI) applications are also available for `git`:
 
-* GitKraken: [https://www.gitkraken.com/]
-* Sublime Merge: [https://www.sublimemerge.com/]
+* GitKraken: https://www.gitkraken.com/
+* Sublime Merge: https://www.sublimemerge.com/
 
 For those familiar and comfortable with the command line, `git` can also be used directly from a terminal.
 
@@ -107,9 +107,9 @@ To save your changes
 
 There are a huge number of `git` and `GitHub` tutorials out there, but here are a few good ones:
 
-* [https://guides.github.com/activities/hello-world/]
-* [https://guides.github.com/introduction/flow]
-* [https://guides.github.com/activities/forking/]
+* https://guides.github.com/activities/hello-world/
+* https://guides.github.com/introduction/flow
+* https://guides.github.com/activities/forking/
 
 
 # Other useful information
@@ -128,9 +128,9 @@ A common way to program is through text editors or integraded development enviro
 
 There are many good text editors that work on most systems:
 
-* Atom: [https://atom.io/]
-* Visual Studio Code: [https://code.visualstudio.com/]
-* Sublime Text: [https://www.sublimetext.com/]
+* Atom: https://atom.io/
+* Visual Studio Code: [https://code.visualstudio.com/
+* Sublime Text: https://www.sublimetext.com/
 
 These text editors can run python source code (`.py`) files, but won't be able to work with Jupyter Notebooks, so we recommend that you only use them if you feel more comfortable with programming outside of the notebook interface.
 
