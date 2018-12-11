@@ -16,9 +16,14 @@ The hope is that not only will this help students learn the science more deeply,
 
 # Brief Roadmap
 
-* [Starter Kit](./StarterKit/README.md): provides the means to any student to jumpstart their understanding and abilities to use `python`, `jupyter notebooks`, `git` and `GitHub`, various libraries and data visualization tools, etc
-* [Tutorials](./Tutorials/README.md): tutorials are meant to be self-contained and focused on learning specific skills. Data visualization in 2D and 3D, CSV file handling, curve fitting, basic Monte Carlo simulation, etc.
-* [Projects](./Projects/README.md): publications used by the club, along with examples of analysis, computational techniques, and data visualizations associated to those publicatiuons can be found here.
+Here are the resources provided for the Coding Club:
+
+* [Starter Kit](./StarterKit/README.md): 
+   * provides the means to any student to jumpstart their understanding and abilities to use `python`, `jupyter notebooks`, `git` and `GitHub`, various libraries and data visualization tools, etc
+* [Tutorials](./Tutorials/README.md): 
+   * tutorials are meant to be self-contained and focused on learning specific skills. Data visualization in 2D and 3D, CSV file handling, curve fitting, basic Monte Carlo simulation, etc.
+* [Projects](./Projects/README.md): 
+   * publications used by the club, along with examples of analysis, computational techniques, and data visualizations associated to those publicatiuons can be found here.
 
 # Starter Kit
 
