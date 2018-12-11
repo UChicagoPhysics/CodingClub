@@ -45,7 +45,7 @@ Informal discussions should be held in the interim amongst the coding club membe
 A dedicated Slack discussion channel is available for real-time discussions, sharing of code and results, and other communications.
 
 Sign-up at:
-- [https://uchicagocodingclub.slack.com](uchicagocodingclub.slack.com)
+- [uchicagocodingclub.slack.com](https://uchicagocodingclub.slack.com)
 
 
 ## Software preservation and formats
