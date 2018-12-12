@@ -34,7 +34,6 @@ https://conda.io/docs/user-guide/install/macos.html
 
 Apple packages most tools you would want through `terminal.app`, found in the `~/Applications/Utilities/` folder.
 While you don't need to do use the command line interface (CLI) for most tasks, it offers a significant amount of power and flexibility and so can be valuable to learn.
-For now, it suffices to know where it is and how to open it; we'll come back to this a bit later.
 
 Once you've installed Anaconda, you should be able to open up a terminal and type:
 ```conda --version```
