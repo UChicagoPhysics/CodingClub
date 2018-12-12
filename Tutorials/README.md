@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tutorials
+nav_order: 3
 navigation_weight: 3
 ---
 

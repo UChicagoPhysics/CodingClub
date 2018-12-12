@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Starter Kit
+nav_order: 2
 navigation_weight: 2
 ---
 

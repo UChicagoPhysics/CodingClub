@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+nav_order: 4
 navigation_weight: 4
 ---
 
