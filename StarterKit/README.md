@@ -40,7 +40,7 @@ Once you've installed Anaconda, you should be able to open up a terminal and typ
 ```conda --version```
 to verify that `conda` has been successfully installed and is usable on your machine.
 
-### Windows 10
+### Windows
 
 https://conda.io/docs/user-guide/install/windows.html
 
