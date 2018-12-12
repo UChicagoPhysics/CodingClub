@@ -178,6 +178,8 @@ A dedicated Slack discussion channel is available for real-time discussions, sha
 Sign-up at:
 * [uchicagocodingclub.slack.com](https://uchicagocodingclub.slack.com)
 
+Once you've registered on the Slack workspace, feel free to ask questions in any of the channels or to send direct messages.
+Remember, don't hesitate to ask for help!
 
 ### Text editors
 
