@@ -28,6 +28,56 @@ The easiest way to get and manage all of these packages is through a package man
 
 This is easy to use on almost any operating system.
 
+### macOS
+
+https://conda.io/docs/user-guide/install/macos.html
+
+Apple packages most tools you would want through `terminal.app`, found in the `~/Applications/Utilities/` folder.
+While you don't need to do use the command line interface (CLI) for most tasks, it offers a significant amount of power and flexibility and so can be valuable to learn.
+For now, it suffices to know where it is and how to open it; we'll come back to this a bit later.
+
+Once you've installed Anaconda, you should be able to open up a terminal and type:
+```conda --version```
+to verify that `conda` has been successfully installed and is usable on your machine.
+
+### Windows 10
+
+https://conda.io/docs/user-guide/install/windows.html
+
+Microsoft's prebundled CLI, `Cmd.exe`, lacks some important features that we will want for programming, so we recommend installing another terminal emulator.
+We suggest doing a full download of [Cmder](http://cmder.net/); there is also Microsoft's [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq) for those more familiar with Linux.
+
+During installation of Anaconda, you will be prompted on whether or not you want to add Anaconda to your PATH environment variable.
+While Anaconda does not recommend this, if you have not used `python` before then you should not run into any problems, and you may later wish that you _had_ put Anaconda in your PATH (this can be done manually whenever you wish as well).
+Hence, provided you don't have another installation of python on your machine, it will not hurt to add Anaconda to your path now, but you do not need to do so unless you are interested in working with the CLI.
+
+Once Anaconda has been installed, you should be able to run it from the *Start* menu by opening the Anaconda prompt (this is actually just a wrapper for `Cmd.exe` but with Anaconda).
+
+### Linux
+
+https://conda.io/docs/user-guide/install/linux.html
+
+As with macOS, most (if not all) Linux distributions come prepackaged with fully usable terminal emulators and should be usable out of the box.
+
+Once you've installed Anaconda, you should be able to open up a terminal and type:
+```conda --version```
+to verify that `conda` has been successfully installed and is usable on your machine.
+
+### Chrome OS
+
+Google's Chromebook operating system now (for versions 53 or newer) [supports Android apps](https://support.google.com/googleplay/answer/7021273?hl=en), which give more flexibility in terms of programming and development.
+
+In particular, [Termux](https://termux.com/) gives you access to a fantastic termunal emulator similar to what you would find in a more traditional Unix (Linux, macOS, etc...) desktop environment.
+While Termux can get most, if not all, of the work we want done, the lack of a graphical user interface (GUI) means that `Jupyter` notebooks aren't an option here.
+Consequently, unless you are already familiar and comfortable with the CLI, you may want to look to the following section.
+
+### Browser
+
+Depending on your operating system and hardware, the above options might not be viable for you, so there are some browser-based alternatives that should get you up-and-running quickly and easily.
+If you don't want to install more software on your computer then this is also a good option; note that this method will not require the Anaconda installation.
+
+Google's [Coloboratory](http://colab.research.google.com/) is a fantastic option and well-suited for our purposes here as it comes with `Jupyter` and all of the packages we're interested in using.
+
 ## `python` Software packages
 
 One of the primary sets of packages that we will be using is referred to as the *scipy stack*.
@@ -45,6 +95,8 @@ The reason for this is that it includes these incredibly powerful, ubiquitous, a
 * `pandas`: http://pandas.pydata.org/
    * dataframes and structures
 
+All of these packages are installed _by default_ with `Anaconda`, so you shouldn't need to worry about getting these individually.
+
 ## Jupyter notebooks
 
 One of the easiest to use applications for python-based computational physics is Jupyter Notebooks.
@@ -52,6 +104,11 @@ One of the easiest to use applications for python-based computational physics is
 * `Jupyter`: http://jupyter.org/
 
 These are interactive, easy-to-use interfaces that make writing simple and moderately complex software programs enjoyable and straightforward. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+
+To run a `Jupyter` notebook, one simply needs to open a terminal and execute the following command:
+```jupyter notebook```
+which should begin a `jupyter` notebook session in your default browser.
+If you are running Windows, you should also be able to click the `Jupyter Notebook` icon installed by Anaconda in the start menu.
 
 # Version control
 
