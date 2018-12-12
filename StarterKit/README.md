@@ -186,7 +186,7 @@ A common way to program is through text editors or integraded development enviro
 There are many good text editors that work on most systems:
 
 * Atom: https://atom.io/
-* Visual Studio Code: [https://code.visualstudio.com/
+* Visual Studio Code: https://code.visualstudio.com/
 * Sublime Text: https://www.sublimetext.com/
 
 These text editors can edit and run python source code (`.py`) files, but won't be able to work with Jupyter Notebooks, so we recommend that you only use them if you feel more comfortable with programming outside of the notebook interface.
