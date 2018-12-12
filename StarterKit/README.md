@@ -68,6 +68,7 @@ Google's Chromebook operating system now (for versions 53 or newer) [supports An
 
 In particular, [Termux](https://termux.com/) gives you access to a fantastic termunal emulator similar to what you would find in a more traditional Unix (Linux, macOS, etc...) desktop environment.
 While Termux can get most, if not all, of the work we want done, the lack of a graphical user interface (GUI) means that `Jupyter` notebooks aren't an option here.
+Furthermore, there is no easy installation of `conda` here either, so you will need to install most packages manually.
 Consequently, unless you are already familiar and comfortable with the CLI, you may want to look to the following section.
 
 ### Browser
