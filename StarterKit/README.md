@@ -27,13 +27,14 @@ The easiest way to get and manage all of these packages is through a package man
 * Anaconda: https://www.anaconda.com/
 
 This is easy to use on almost any operating system.
+Note: `conda` is available through both Anaconda and Miniconda; while both work, we will assume Anaconda throughout as that comes with all of the packages we will use and doesn't require the use of the command line interface (CLI).
 
 ### macOS
 
 https://conda.io/docs/user-guide/install/macos.html
 
 Apple packages most tools you would want through `terminal.app`, found in the `~/Applications/Utilities/` folder.
-While you don't need to do use the command line interface (CLI) for most tasks, it offers a significant amount of power and flexibility and so can be valuable to learn.
+While you don't need to do use the CLI for most tasks, it offers a significant amount of power and flexibility and so can be valuable to learn.
 
 Once you've installed Anaconda, you should be able to open up a terminal and type:
 ```conda --version```
