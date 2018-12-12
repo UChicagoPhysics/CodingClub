@@ -5,6 +5,10 @@ nav_order: 2
 navigation_weight: 2
 ---
 
+# Table of Contents
+1. TOC
+{:toc}
+
 # Starter Kit
 
 Welcome to the [UChicago Physics Coding Club](../) Starter Kit!
