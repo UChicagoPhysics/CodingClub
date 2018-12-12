@@ -50,7 +50,7 @@ During installation of Anaconda, you will be prompted on whether or not you want
 While Anaconda does not recommend this, if you have not used `python` before then you should not run into any problems, and you may later wish that you _had_ put Anaconda in your PATH (this can be done manually whenever you wish as well).
 Hence, provided you don't have another installation of python on your machine, it will not hurt to add Anaconda to your path now, but you do not need to do so unless you are interested in working with the CLI.
 
-Once Anaconda has been installed, you should be able to run it from the *Start* menu by opening the Anaconda prompt (this is actually just a wrapper for `Cmd.exe` but with Anaconda).
+Once Anaconda has been installed, you should be able to run it from the *Start* menu by opening the Anaconda prompt.
 
 ### Linux
 
