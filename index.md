@@ -5,6 +5,9 @@ nav_order: 1
 navigation_weight: 1
 ---
 
+1. TOC
+{:toc}
+
 # Introduction and Aims of the Coding Club
 
 Computational approaches to scientific questions are not just ubiquitous, they are essential for nearly every active research endeavor today, whether in the form of numerical approximations, simulation, optimization, regression, or even merely visualization.
