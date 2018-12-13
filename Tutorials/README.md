@@ -8,7 +8,7 @@ navigation_weight: 3
 # Tutorials page
 {: .no_toc }
 
-This is a test page
+This page will hold tutorials that are focused on learning specific skills used in scientific data analysis.
 
 Click [here to go back to the main page](../).
 
@@ -21,3 +21,19 @@ Click [here to go back to the main page](../).
 {:toc}
 
 ---
+
+# CSV File Handling
+
+Placeholder for link to tutorial directory...
+
+# Data Visualization
+
+Placeholder for link to tutorial directory...
+
+# Curve Fitting
+
+Placeholder for link to tutorial directory...
+
+# Basic Monte Carlo Simulation
+
+Placeholder for link to tutorial directory...
