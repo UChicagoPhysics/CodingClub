@@ -122,7 +122,6 @@ Graphical user interface (GUI) applications are also available for `git`:
 * Sublime Merge: [www.sublimemerge.com](https://www.sublimemerge.com/)
 
 For those familiar and comfortable with the command line, `git` can also be used directly from a terminal.
-
 Any method of using `git` should be fine, and you should familiarize yourself with using it as a regular part of your workflow.
 
 ## Example
