@@ -69,5 +69,5 @@ Sign-up at [uchicagocodingclub.slack.com](https://uchicagocodingclub.slack.com).
 
 Jupyter notebooks can be interactively discussed and evaluated in real time along with the mentor and/or other researchers, and therefore provide a well-suited format for the purposes of this Club.
 
-Presentations from each of the coding club members during Reading Period of 10th week could proceed directly from prepared Jupyter notebooks. Complete working software should be committed to the dedicated GitHub repository for each project (see [Projects](./Projects/README.md). A README should include notes from the discussions, links to publications and external resources used, and the names of the coding club members that contributed to the final results and discussion.
+Presentations from each of the coding club members during Reading Period of 10th week could proceed directly from prepared Jupyter notebooks. Complete working software should be committed to the dedicated GitHub repository for each project (see [Projects](./Projects/README.md)). A README should include notes from the discussions, links to publications and external resources used, and the names of the coding club members that contributed to the final results and discussion.
 
