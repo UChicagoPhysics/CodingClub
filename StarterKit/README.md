@@ -36,7 +36,7 @@ The [Starter Kit](./) and [Tutorials](../Tutorials/README.md) will primarily use
 
 The easiest way to get and manage all of these packages is through a package manager such as `conda`; we recommend using Anaconda for this.
 
-* Anaconda: [www.anaconda.com/](https://www.anaconda.com)
+* Anaconda: [www.anaconda.com](https://www.anaconda.com)
 
 This is easy to use on almost any operating system.
 Note: `conda` is available through both Anaconda and Miniconda; while both work, we will assume Anaconda throughout as that comes with all of the packages we will use and doesn't require the use of the command line interface (CLI).

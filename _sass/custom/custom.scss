@@ -17,6 +17,7 @@ $body-heading-line-height: 1.15;
 $uc-maroon: #800000;
 $uc-grey-dk: #767676;
 $uc-grey-lt: #D6D6CE;
+$uc-cyan: #47B5FF;
 
 $white: #fff;
 
@@ -55,7 +56,8 @@ $body-text-color: $uc-grey-dk !default;
 //$body-heading-color: $grey-dk-300 !default;
 $nav-child-link-color: $grey-dk-100 !default;
 // $link-color: $purple-000 !default;
-$link-color: $uc-maroon !default;
+//$link-color: $uc-maroon !default;
+$link-color: $uc-cyan !default;
 $btn-primary-color: $purple-100 !default;
 $base-button-color: #f7f7f7 !default;
 
