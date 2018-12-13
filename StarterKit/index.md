@@ -57,7 +57,7 @@ to verify that `conda` has been successfully installed and is usable on your mac
 More detailed installation information [here](https://conda.io/docs/user-guide/install/windows.html).
 
 Microsoft's prebundled CLI, `Cmd.exe`, lacks some important features that we will want for programming, so we recommend installing another terminal emulator.
-We have doing a full download of [Cmder](http://cmder.net/) to work well; there is also Microsoft's [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) for those more familiar with Linux.
+We have found that doing a full download of [Cmder](http://cmder.net/) works well; there is also Microsoft's [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) for those more familiar with Linux.
 
 During installation of Anaconda, you will be prompted on whether or not you want to add Anaconda to your PATH environment variable.
 While Anaconda does not recommend this, if you have not used `python` before then you should not run into any problems, and you may later wish that you _had_ put Anaconda in your PATH (this can be done manually whenever you wish as well).
