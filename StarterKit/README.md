@@ -1,6 +1,6 @@
 # Starter Kit
 
-Welcome to the UChicago Physics Coding Club] Starter Kit!
+Welcome to the UChicago Physics Coding Club Starter Kit!
 
 This *Starter Kit* provides some tools that will help get you started with coding with `python`, plotting and visualization, and data analysis.
 
