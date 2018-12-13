@@ -5,13 +5,13 @@ nav_order: 2
 navigation_weight: 2
 ---
 
+# Starter Kit
+
 ### Table of Contents
 {: .no_toc .text-delta}
 
 1. TOC
 {:toc}
-
-# Starter Kit
 
 Welcome to the [UChicago Physics Coding Club](../) Starter Kit!
 

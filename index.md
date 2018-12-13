@@ -7,13 +7,13 @@ navigation_weight: 1
 
 ![logo](https://d3qi0qp55mx5f5.cloudfront.net/shared-resources/i/template/uc_wordmark_hires.gif)
 
+# Introduction and Aims of the Coding Club
+
 ### Table of Contents
 {: .no_toc .text-delta}
 
 1. TOC
 {:toc}
-
-# Introduction and Aims of the Coding Club
 
 Computational approaches to scientific questions are not just ubiquitous, they are essential for nearly every active research endeavor today, whether in the form of numerical approximations, simulation, optimization, regression, or even merely visualization.
 
