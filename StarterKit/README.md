@@ -69,7 +69,7 @@ Consequently, unless you are already familiar and comfortable with the CLI, you 
 Depending on your operating system and hardware, the above options might not be viable for you, so there are some browser-based alternatives that should get you up-and-running quickly and easily.
 If you don't want to install more software on your computer then this is also a good option; note that this method will not require the Anaconda installation.
 
-Google's [Coloboratory](http://colab.research.google.com/) is a fantastic option and well-suited for our purposes here as it comes with `Jupyter` and all of the packages we're interested in using.
+Google's [Colaboratory](http://colab.research.google.com/) is a fantastic option and well-suited for our purposes here as it comes with `Jupyter` and all of the packages we're interested in using.
 
 ## `python` Software packages
 
