@@ -57,7 +57,7 @@ to verify that `conda` has been successfully installed and is usable on your mac
 More detailed installation information [here](https://conda.io/docs/user-guide/install/windows.html).
 
 Microsoft's prebundled CLI, `Cmd.exe`, lacks some important features that we will want for programming, so we recommend installing another terminal emulator.
-We suggest doing a full download of [Cmder](http://cmder.net/); there is also Microsoft's [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) for those more familiar with Linux.
+We have doing a full download of [Cmder](http://cmder.net/) to work well; there is also Microsoft's [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) for those more familiar with Linux.
 
 During installation of Anaconda, you will be prompted on whether or not you want to add Anaconda to your PATH environment variable.
 While Anaconda does not recommend this, if you have not used `python` before then you should not run into any problems, and you may later wish that you _had_ put Anaconda in your PATH (this can be done manually whenever you wish as well).
@@ -72,7 +72,7 @@ More detailed installation information [here](https://conda.io/docs/user-guide/i
 As with macOS, most (if not all) Linux distributions come prepackaged with fully usable terminal emulators and should be usable out of the box.
 
 Once you've installed Anaconda, you should be able to open up a terminal and type:
-```conda --version```
+`conda --version`
 to verify that `conda` has been successfully installed and is usable on your machine.
 
 ### Chrome OS
@@ -186,7 +186,7 @@ There are a huge number of `git` and `GitHub` tutorials out there, but here are 
 
 # Other useful information
 
-### Slack channels
+## Slack channels
 
 A dedicated Slack discussion channel is available for real-time discussions, sharing of code and results, and other communications.
 
@@ -196,7 +196,7 @@ Sign-up at:
 Once you've registered on the Slack workspace, feel free to ask questions in any of the channels or to send direct messages.
 Remember, don't hesitate to ask for help!
 
-### Text editors
+## Text editors
 
 A common way to program is through text editors or integraded development environments (IDEs).
 
