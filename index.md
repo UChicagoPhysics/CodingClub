@@ -8,9 +8,10 @@ navigation_weight: 1
 ![logo](https://d3qi0qp55mx5f5.cloudfront.net/shared-resources/i/template/uc_wordmark_hires.gif)
 
 # Introduction and Aims of the Coding Club
+{: .no_toc }
 
 ### Table of Contents
-{: .no_toc .text-delta}
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
