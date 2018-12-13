@@ -8,7 +8,7 @@ This quick tutorial shows how to use the `numpy` package to work with `.csv` fil
 
 ## Data Visualization
 
-Placeholder for link to tutorial directory...
+This quick tutorial shows how to use the `matplotlib` package to accomplish some basic data visualization.
 
 ## Curve Fitting
 

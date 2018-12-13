@@ -28,7 +28,7 @@ Click [here to go back to the main page](../).
 
 # Data Visualization
 
-Placeholder for link to tutorial directory...
+[Data Visualization tutorial](visualization/).
 
 # Curve Fitting
 
