@@ -14,6 +14,8 @@ This *Starter Kit* provides some tools that will help get you started with codin
 
 Click [here to go back to the main page](../).
 
+---
+
 ### Table of Contents
 {: .no_toc .text-delta }
 

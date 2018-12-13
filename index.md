@@ -18,6 +18,8 @@ Think of this like a "journal club" but instead of simply _reading_ papers, the 
 
 The hope is that not only will this help students learn the science more deeply, but also learn the tools of the trade required to produce those results in the first place.
 
+---
+
 ### Table of Contents
 {: .no_toc .text-delta }
 
