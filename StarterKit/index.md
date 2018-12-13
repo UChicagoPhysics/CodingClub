@@ -1,8 +1,28 @@
-# Starter Kit
+---
+layout: default
+title: Starter Kit
+nav_order: 2
+navigation_weight: 2
+---
 
-Welcome to the UChicago Physics Coding Club] Starter Kit!
+# Starter Kit
+{: .no_toc }
+
+Welcome to the [UChicago Physics Coding Club](../) Starter Kit!
 
 This *Starter Kit* provides some tools that will help get you started with coding with `python`, plotting and visualization, and data analysis.
+
+Click [here to go back to the main page](../).
+
+---
+
+### Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 # Programming languages, software, and platforms
 
@@ -186,3 +206,7 @@ There are many good text editors that work on most systems:
 * Sublime Text: [www.sublimetext.com](https://www.sublimetext.com/)
 
 These text editors can edit and run python source code (`.py`) files, but won't be able to work with Jupyter Notebooks, so we recommend that you only use them if you feel more comfortable with programming outside of the notebook interface.
+
+
+
+Click [here to go back to the main page](./).
