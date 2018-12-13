@@ -30,7 +30,7 @@ Click [here to go back to the main page](../).
 
 The [Starter Kit](./) and [Tutorials](../Tutorials/README.md) will primarily use `python`, although any programming language will do. 
 
-`python` which is a powerful, and high-level language that is used across much of academia and industry in one form or another, and so is a very sensible language to use here.
+`python` is a powerful, and high-level language that is used across much of academia and industry in one form or another, and so is a very sensible language to use here.
 
 ## Installation
 
@@ -119,8 +119,8 @@ One of the easiest to use applications for python-based computational physics is
 These are interactive, easy-to-use interfaces that make writing simple and moderately complex software programs enjoyable and straightforward. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
 To run a `Jupyter` notebook, one simply needs to open a terminal and execute the following command:
-```jupyter notebook```
-which should begin a `jupyter` notebook session in your default browser.
+`jupyter notebook`
+which should begin a `Jupyter` notebook session in your default browser.
 If you are running Windows, you should also be able to click the `Jupyter Notebook` icon installed by Anaconda in the start menu.
 
 # Version control
@@ -142,6 +142,8 @@ Graphical user interface (GUI) applications are also available for `git`:
 * Sublime Merge: [sublimemerge.com](https://www.sublimemerge.com/)
 
 For those familiar and comfortable with the command line, `git` can also be used directly from a terminal.
+
+Any method of using `git` should be fine, and you should familiarize yourself with using it as a regular part of your workflow.
 
 ## Example
 
@@ -173,7 +175,7 @@ git branch play
 git checkout play
 ```
 now you can make changes without conflicting with the `master` branch.
-To save your changes
+To save your changes <span style="color:red">content needed here</span>.
 
 There are a huge number of `git` and `GitHub` tutorials out there, but here are a few good ones:
 
