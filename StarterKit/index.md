@@ -209,4 +209,4 @@ These text editors can edit and run python source code (`.py`) files, but won't 
 
 
 
-Click [here to go back to the main page](./).
+Click [here to go back to the main page](../).
