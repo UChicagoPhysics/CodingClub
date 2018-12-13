@@ -139,7 +139,7 @@ Most people interact with `git` using GitHub (that's this thing you're using now
 Graphical user interface (GUI) applications are also available for `git`:
 
 * GitKraken: [www.gitkraken.com](https://www.gitkraken.com/)
-* Sublime Merge: [sublimemerge.com](https://www.sublimemerge.com/)
+* Sublime Merge: [www.sublimemerge.com](https://www.sublimemerge.com/)
 
 For those familiar and comfortable with the command line, `git` can also be used directly from a terminal.
 
