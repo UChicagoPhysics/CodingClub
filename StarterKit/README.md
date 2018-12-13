@@ -118,6 +118,7 @@ Most people interact with `git` using GitHub (that's this thing you're using now
 
 Graphical user interface (GUI) applications are also available for `git`:
 
+* GitHub Desktop: [desktop.github.com](https://desktop.github.com/)
 * GitKraken: [www.gitkraken.com](https://www.gitkraken.com/)
 * Sublime Merge: [www.sublimemerge.com](https://www.sublimemerge.com/)
 
