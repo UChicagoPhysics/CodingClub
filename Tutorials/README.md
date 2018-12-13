@@ -4,7 +4,7 @@ This page will hold tutorials that are focused on learning specific skills used 
 
 # CSV File Handling
 
-Placeholder for link to tutorial directory...
+This quick tutorial shows how to use the `numpy` package to work with `.csv` files.
 
 # Data Visualization
 
