@@ -8,17 +8,19 @@ navigation_weight: 2
 # Starter Kit
 {: .no_toc }
 
+Welcome to the [UChicago Physics Coding Club](../) Starter Kit!
+
+This *Starter Kit* provides some tools that will help get you started with coding with `python`, plotting and visualization, and data analysis.
+
+Click [here to go back to the main page](../).
+
 ### Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-Welcome to the [UChicago Physics Coding Club](../) Starter Kit!
-
-This *Starter Kit* provides some tools that will help get you started with coding with `python`, plotting and visualization, and data analysis.
-
-Click [here to go back to the main page](../).
+---
 
 # Programming languages, software, and platforms
 

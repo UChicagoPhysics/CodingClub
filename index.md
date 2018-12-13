@@ -10,12 +10,6 @@ navigation_weight: 1
 # Introduction and Aims of the Coding Club
 {: .no_toc }
 
-### Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 Computational approaches to scientific questions are not just ubiquitous, they are essential for nearly every active research endeavor today, whether in the form of numerical approximations, simulation, optimization, regression, or even merely visualization.
 
 This *Coding Club* is designed to foster a *social, collaborative, and open forum* for students to learn about computational techniques,  from each other and a faculty mentor, and how to apply them to research in physics.
@@ -23,6 +17,14 @@ This *Coding Club* is designed to foster a *social, collaborative, and open foru
 Think of this like a "journal club" but instead of simply _reading_ papers, the goal is to dissect some figure, or re-analyze some data, or reproduce a statistical result. These "Projects" (see [the Projects page](./Projects/README.md)) can then grow and transform in whatever direction the club members are inclined!
 
 The hope is that not only will this help students learn the science more deeply, but also learn the tools of the trade required to produce those results in the first place.
+
+### Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 # Brief Roadmap
 
