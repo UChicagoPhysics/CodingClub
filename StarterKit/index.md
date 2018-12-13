@@ -28,7 +28,7 @@ Click [here to go back to the main page](../).
 
 ## `python`
 
-The [Starter Kit](./) and [Tutorials](../Tutorials/README.md) will primarily use `python`, although any programming language will do. 
+The [Starter Kit](./) and [Tutorials](../Tutorials/) will primarily use `python`, although any programming language will do. 
 
 `python` is a powerful, and high-level language that is used across much of academia and industry in one form or another, and so is a very sensible language to use here.
 
