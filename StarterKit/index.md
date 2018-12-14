@@ -207,6 +207,16 @@ There are many good text editors that work on most systems:
 
 These text editors can edit and run python source code (`.py`) files, but won't be able to work with Jupyter Notebooks, so we recommend that you only use them if you feel more comfortable with programming outside of the notebook interface.
 
+# Starter Tutorials
+
+This Starter Kit includes a few basic tutorials to get you started with programming in `python`:
+1. [Overview](StarterKit-0-Overview.ipynb)
+1. [Jupyter](StarterKit-1-Jupyter.ipynb)
+1. [Python](StarterKit-2-Python.ipyn)
+1. [NumPy](StarterKit-3-NumPy.ipynb)
+1. [Matplotlib](StarterKit-4-Matplotlib.ipynb)
+
+Once you've familiarized yourself with the content in these, you should be able to tackle some of the more in-depth [tutorials](../Tutorials/).
 
 
 Click [here to go back to the main page](../).
