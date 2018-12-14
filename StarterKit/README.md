@@ -155,7 +155,16 @@ git branch play
 git checkout play
 ```
 now you can make changes without conflicting with the `master` branch.
-To save your changes <span style="color:red">content needed here</span>.
+
+1. To save your changes, you must add, commit, and push your updated files
+```
+git add *
+git commit -m "Commit message"
+git push
+```
+where `*` is shorthand for _all_ of the files in your directory.
+Usually you'll want to say a general idea of what your changes are in the commit message as other people may look at these to see when certain files were added or gained new features.
+You also don't need to `push` right away.
 
 There are a huge number of `git` and `GitHub` tutorials out there, but here are a few good ones:
 

@@ -175,7 +175,16 @@ git branch play
 git checkout play
 ```
 now you can make changes without conflicting with the `master` branch.
-To save your changes <span style="color:red">content needed here</span>.
+
+1. To save your changes, you must add, commit, and push your updated files
+```
+git add *
+git commit -m "Commit message"
+git push
+```
+where `*` is shorthand for _all_ of the files in your directory.
+Usually you'll want to say a general idea of what your changes are in the commit message as other people may look at these to see when certain files were added or gained new features.
+You also don't need to `push` right away.
 
 There are a huge number of `git` and `GitHub` tutorials out there, but here are a few good ones:
 
@@ -207,12 +216,12 @@ There are many good text editors that work on most systems:
 
 These text editors can edit and run python source code (`.py`) files, but won't be able to work with Jupyter Notebooks, so we recommend that you only use them if you feel more comfortable with programming outside of the notebook interface.
 
-# Starter Tutorials
+# Starter Kit Tutorials
 
 This Starter Kit includes a few basic tutorials to get you started with programming in `python`:
 1. [Overview](StarterKit-0-Overview.ipynb)
 1. [Jupyter](StarterKit-1-Jupyter.ipynb)
-1. [Python](StarterKit-2-Python.ipyn)
+1. [Python](StarterKit-2-Python.ipynb)
 1. [NumPy](StarterKit-3-NumPy.ipynb)
 1. [Matplotlib](StarterKit-4-Matplotlib.ipynb)
 
