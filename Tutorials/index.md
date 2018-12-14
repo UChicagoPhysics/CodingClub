@@ -22,18 +22,18 @@ Click [here to go back to the main page](../).
 
 ---
 
-# CSV File Handling
+## CSV File Handling
 
 [File handling tutorial](file_handling/).
 
-# Data Visualization
+## Data Visualization
 
-[Data Visualization tutorial](visualization/).
+[Data Visualization tutorial](DataVisualization.ipynb).
 
-# Curve Fitting
+## Curve Fitting
 
 Placeholder for link to tutorial directory...
 
-# Basic Monte Carlo Simulation
+## Basic Monte Carlo Simulation
 
 Placeholder for link to tutorial directory...
