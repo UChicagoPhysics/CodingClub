@@ -24,7 +24,7 @@ Click [here to go back to the main page](../).
 
 ## CSV File Handling
 
-[File handling tutorial](file_handling/).
+Placeholder for link to tutorial directory...
 
 ## Data Visualization
 

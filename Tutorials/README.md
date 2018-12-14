@@ -12,8 +12,8 @@ This quick tutorial shows how to use the `matplotlib` package to accomplish some
 
 ## Curve Fitting
 
-Placeholder for link to tutorial directory...
+Placeholder description.
 
 ## Basic Monte Carlo Simulation
 
-Placeholder for link to tutorial directory...
+Placeholder description.
