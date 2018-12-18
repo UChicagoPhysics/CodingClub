@@ -28,11 +28,11 @@ Placeholder for link to tutorial directory...
 
 ## Data Visualization
 
-[Data Visualization tutorial](DataVisualization.ipynb).
+[Data visualization tutorial](DataVisualization.ipynb).
 
 ## Curve Fitting
 
-Placeholder for link to tutorial directory...
+[Curve fitting tutorial](CurveFitting.ipynb).
 
 ## Basic Monte Carlo Simulation
 
