@@ -109,6 +109,17 @@ The reason for this is that it includes these incredibly powerful, ubiquitous, a
    * dataframes and structures
 
 All of these packages are installed _by default_ with `Anaconda`, so you shouldn't need to worry about getting these individually.
+If you find that you need some package that is _not_ included with `Anaconda`, then the `conda` package manager provides an easy interface for installation.
+For instance, let's say we needed to install `numpy`; then, simply run
+```
+conda install numpy
+```
+Some packages can't be found in the `conda` repository but may be installable with `pip`, which is a python package manager.
+The syntax for `pip` is often similar:
+```
+pip install numpy
+```
+However, we don't recommend using `pip` if you can use `conda` instead as `conda` has support for environments, which we won't cover here but can be very useful when you have multiple projects simultaneously.
 
 ## Jupyter notebooks
 
