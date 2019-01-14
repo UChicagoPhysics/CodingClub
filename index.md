@@ -19,6 +19,8 @@ These "Projects" (see [the Projects page](./Projects/index.md)) can then grow an
 
 The hope is that not only will this help students learn the science more deeply, but also learn the tools of the trade required to produce those results in the first place.
 
+Please see [the Schedule](./Schedule/index.md) to find out when we're meeting next.
+
 ---
 
 ### Table of Contents
