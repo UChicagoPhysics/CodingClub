@@ -25,7 +25,8 @@ Click [here to go back to the main page](../).
 ## First Meeting (1/16/19)
 
 Our first meeting will (*tentatively*) be Wednesday, January 16 at 4:00pm in KPTC 2016.
-Outline:
+
+Prospective outline:
 - Introductions
 - Introduction and aims of the Coding Club
 - ...
