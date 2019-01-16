@@ -21,12 +21,13 @@ Click [here to go back to the main page](../).
 {:toc}
 
 ---
+## Next Meeting
+
+Our next meeting will tentatively happen sometime around the middle of the quarter.
 
 ## First Meeting (1/16/19)
 
-Our first meeting will (*tentatively*) be Wednesday, January 16 at 4:00pm in KPTC 2016.
-
-Prospective outline:
+Our first meeting happened on Wednesday, January 16 at 4:00pm in KPTC 2016.
 - Introductions
-- Introduction and aims of the Coding Club
-- ...
+- Aims of the Coding Club
+- Talked about some project ideas

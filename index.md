@@ -7,12 +7,15 @@ navigation_weight: 1
 
 ![logo](https://d3qi0qp55mx5f5.cloudfront.net/shared-resources/i/template/uc_wordmark_hires.gif)
 
+Sign-up for our Slack at [uchicagocodingclub.slack.com](https://uchicagocodingclub.slack.com) to follow the discussion and keep up-to-date with meetings, news, and anything else.
+
 # Introduction and Aims of the Coding Club
 {: .no_toc }
 
 Computational approaches to scientific questions are not just ubiquitous, they are essential for nearly every active research endeavor today, whether in the form of numerical approximations, simulation, optimization, regression, or even merely visualization.
 
-This *Coding Club* is designed to foster a *social, collaborative, and open forum* for students to learn about computational techniques,  from each other and a faculty mentor, and how to apply them to research in physics.
+This *Coding Club* is designed to foster a *social, collaborative, and open forum* for students to learn about computational techniques, from each other and a faculty mentor, and how to apply them to research in physics.
+We want to emphasize that students of _any_ year are welcome (from first-year undergrads to grad students), and no prior experience with programming is required.
 
 Think of this like a "journal club" but instead of simply _reading_ papers, the goal is to dissect some figure, or re-analyze some data, or reproduce a statistical result.
 These "Projects" (see [the Projects page](./Projects/index.md)) can then grow and transform in whatever direction the club members are inclined!
