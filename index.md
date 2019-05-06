@@ -7,7 +7,7 @@ navigation_weight: 1
 
 ![logo](https://d3qi0qp55mx5f5.cloudfront.net/shared-resources/i/template/uc_wordmark_hires.gif)
 
-Sign-up for our Slack at [uchicagocodingclub.slack.com](https://uchicagocodingclub.slack.com) and our Facebook page at [facebook.com/UChicag-Physics-Coding-Club-2208956475888946](https://www.facebook.com/UChicago-Physics-Coding-Club-2208956475888946/) to follow the discussion and keep up-to-date with meetings, news, and anything else.
+Sign-up for our Slack at [uchicagocodingclub.slack.com](https://uchicagocodingclub.slack.com) and our Facebook page at [facebook.com](https://www.facebook.com/UChicago-Physics-Coding-Club-2208956475888946/) to follow the discussion and keep up-to-date with meetings, news, and anything else.
 
 # Introduction and Aims of the Coding Club
 {: .no_toc }
