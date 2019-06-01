@@ -43,7 +43,7 @@ Note: `conda` is available through both Anaconda and Miniconda; while both work,
 
 ### macOS
 
-More detailed installation information [here](https://conda.io/docs/user-guide/install/macos.html).
+More detailed installation information [here](https://docs.anaconda.com/anaconda/install/mac-os/).
 
 Apple provides most tools you would want through `terminal.app`, found in the `~/Applications/Utilities/` folder.
 While you don't need to do use the CLI for most tasks, it offers a significant amount of power and flexibility and so can be valuable to learn.
@@ -54,7 +54,7 @@ to verify that `conda` has been successfully installed and is usable on your mac
 
 ### Windows
 
-More detailed installation information [here](https://conda.io/docs/user-guide/install/windows.html).
+More detailed installation information [here](https://docs.anaconda.com/anaconda/install/windows/).
 
 Microsoft's prebundled CLI, `Cmd.exe`, lacks some important features that we will want for programming, so we recommend installing another terminal emulator.
 We have found that doing a full download of [Cmder](http://cmder.net/) works well; there is also Microsoft's [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) for those more familiar with Linux.
@@ -67,7 +67,7 @@ Once Anaconda has been installed, you should be able to run it from the *Start* 
 
 ### Linux
 
-More detailed installation information [here](https://conda.io/docs/user-guide/install/linux.html).
+More detailed installation information [here](https://docs.anaconda.com/anaconda/install/linux/).
 
 As with macOS, most (if not all) Linux distributions come prepackaged with fully usable terminal emulators and should be usable out of the box.
 
