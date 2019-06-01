@@ -34,7 +34,9 @@ The [Starter Kit](./) and [Tutorials](../Tutorials/) will primarily use `python`
 
 ## Installation
 
-The easiest way to get and manage all of these packages is through a package manager such as `conda`; we recommend using Anaconda for this.
+We have a full `Jupyter lab` environment available to use without any local installation [here](https://ml.maniac.uchicago.edu/), which will give you access through your UChicago credentials to all the software you need for basic data analysis.
+
+If you want to work locally, then the easiest way to get and manage all of these packages is through a package manager such as `conda`; we recommend using Anaconda for this.
 
 * Anaconda: [www.anaconda.com](https://www.anaconda.com)
 
